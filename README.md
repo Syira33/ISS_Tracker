@@ -2,7 +2,7 @@
 
 *Instruction for operate the ISS Tracker:
 
-To run the code, use visual studio code editor.
+To run the code, you can use visual studio code editor.
 You have to install Live Server by Ritwick Dey to view the map in live server.
 To view in live, open index.html file and right click and click open with live server.
 *Info:
